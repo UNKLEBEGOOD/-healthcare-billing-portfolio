@@ -1,5 +1,4 @@
 # Healthcare Claims & Billing Analysis
-### A Revenue Cycle & Claims Denial Case Study
 
 **Author:** Odoh Ekenedirichukwu J.
 **Background:** Registered Nurse (Ophthalmic Nursing) with 5+ years of clinical and EMR experience, transitioning into Healthcare Data Analytics.
