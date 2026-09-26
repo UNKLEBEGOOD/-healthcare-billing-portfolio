@@ -55,6 +55,5 @@ Healthcare providers routinely lose revenue to denied claims and underpayments f
 
 ## Power BI Dashboard
 
-![Dashboard Screenshot](../dashboard/dashboard_screenshot.png)
-
+   ![Dashboard Screenshot](Health_billing_Portfolio/dashboard/dashboard_screenshot.png)
 The full interactive file (`claims_billing_dashboard.pbix`) is available in the `dashboard/` folder — open with Power BI Desktop to filter and explore.
